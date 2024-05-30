@@ -1,0 +1,4 @@
+run cmd as admin
+
+go to main.py directory
+run python main.py
